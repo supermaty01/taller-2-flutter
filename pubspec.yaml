@@ -1,0 +1,26 @@
+name: taller_flutter_dm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/MSI_MAG.jpg
+  - assets/MSI_MEG_ACE.jpg
+  - assets/MSI_MEG_GODLIKE.jpg
+  - assets/MSI_MPG.jpg
+  - assets/MSI.png
