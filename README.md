@@ -1,3 +1,5 @@
 # taller_flutter_dm
 
-A new Flutter project.
+Taller 2 Flutter
+Mateo Álvarez Lebrum
+malvarezle@unal.edu.co
